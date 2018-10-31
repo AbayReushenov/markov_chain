@@ -1,4 +1,4 @@
 #! /usr/bin/env python3
 
 print("Hello", "World!")
-print "Ytшгршг "
+print("Hello Hello Hello")
